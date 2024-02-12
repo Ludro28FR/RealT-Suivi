@@ -18,7 +18,7 @@ layout:
 
 2 : Une fois arriver sur le Google Sheet cliquer sur : "Fichier" puis "Créer une copie"
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-12 105046.png" alt=""><figcaption><p>Screen pour le 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-12 102107.png" alt=""><figcaption><p>Screen pour le 2</p></figcaption></figure>
 
 3 : Renommer le fichier puis cliquez sur "Créer une copie"
 
