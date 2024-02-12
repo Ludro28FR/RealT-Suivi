@@ -14,7 +14,7 @@ layout:
 
 # 🏡 Liste Bien RealT
 
-Voici la page pour vous expliquez comment fonctionne la page avec toutes les informations de l'API RealT Communautaire
+Voici la page pour vous expliquer comment fonctionne la page avec toutes les informations de l'API RealT Communautaire
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-12 152955.png" alt=""><figcaption><p>Screen de la feuille Liste Bien RealT</p></figcaption></figure>
 
