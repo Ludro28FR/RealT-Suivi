@@ -40,7 +40,7 @@ const keyAPIGnosis = "YOUR-KEY"
 const keyAPIRealT = "IFKZNCKE"
 ```
 
-7 : Pour avoir votre clé API RealT Communautaire rendez-vous sur ce [lien](https://forms.gle/nFVfuxk8WRZBDR6u8) et remplissez le formulaire. Une clé API vous sera envoyé sur votre mail renseigné. (Comptez quelque jours pour avoir votre clé). Une fois que vous avez reçu votre clé remplacer "YOUR-KEY" de "const keyAPIRealT" :
+7 : Pour avoir votre clé API RealT Communautaire, rendez-vous sur ce [lien](https://forms.gle/nFVfuxk8WRZBDR6u8) et remplissez le formulaire. Une clé API vous sera envoyé sur votre mail renseigné. (Comptez quelque jours pour avoir votre clé). Une fois que vous avez reçu votre clé remplacer "YOUR-KEY" de "const keyAPIRealT" :
 
 ```javascript
 const keyAPIRealT = "YOUR-KEY"
