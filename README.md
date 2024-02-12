@@ -8,8 +8,8 @@ Bonjour, voici un tuto pour installer le google sheet vous permettant d'avoir un
 
 * &#x20;Votre Portefeuille journalier (RMM V3 inclus)
 * &#x20;Vos rents qui tombent toutes les semaines
-* &#x20;Vos mails informatif (RealT Invoce / Rent Repport / Mail Tediji (Contrat RealT) avec stockage automatique sur votre Drive
-* &#x20;Sur chaque bien que vous (Prise en compte des augmentation de loyer et de votre bien
+* &#x20;Vos mails informatifs (RealT Invoce / Rent Repport / Mail Tediji (Contrat RealT) avec stockage automatique sur votre Drive
+* &#x20;Sur chaque bien que vous avez (Prise en compte des augmentation de loyer et de votre bien)
 
 
 
