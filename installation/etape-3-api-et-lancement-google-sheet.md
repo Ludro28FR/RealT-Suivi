@@ -78,7 +78,7 @@ const walletToken = ["0x00000000000000000"];
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-12 114003.png" alt=""><figcaption><p>Screen pour le 12</p></figcaption></figure>
 
-13 : Nous allons créer les autres déclencheur nécessaire pour le bon fonctionnement du programme. Cliquer de nouveau sur "Ajouter un déclencheur", puis dans "Choisir la fonction à exécuter", trouver "autoRentReport" et régler ce déclencheur pour qu'il se déclenche toutes les heures,
+13 : Nous allons créer les autres déclencheurs, nécessaires pour le bon fonctionnement du programme. Cliquer de nouveau sur "Ajouter un déclencheur", puis dans "Choisir la fonction à exécuter", trouver "autoRentReport" et régler ce déclencheur pour qu'il se déclenche toutes les heures,
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-12 114503.png" alt=""><figcaption><p>Screen pour le 13</p></figcaption></figure>
 
